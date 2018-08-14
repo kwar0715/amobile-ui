@@ -1,0 +1,19 @@
+{
+  "name": "amobile-ui",
+  "version": "1.0.0",
+  "description": "a mobile -ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "amobile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwar0715/amobile-ui.git"
+  },
+  "author": "kolitha warnakulasooriya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwar0715/amobile-ui/issues"
+  },
+  "homepage": "https://github.com/kwar0715/amobile-ui#readme"
+}
